@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>zoom-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="zoom-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-2" fill-opacity="0.75" fill="#000000" cx="22.5" cy="22.5" r="22.5"></circle>
+        <g id="Group" transform="translate(10.000000, 10.000000)" fill="#FFFFFF">
+            <path d="M10.5,21 C4.70101013,21 0,16.2989899 0,10.5 C0,4.70101013 4.70101013,0 10.5,0 C16.2989899,0 21,4.70101013 21,10.5 C21,16.2989899 16.2989899,21 10.5,21 Z M10.5,18.48 C14.9072323,18.48 18.48,14.9072323 18.48,10.5 C18.48,6.0927677 14.9072323,2.52 10.5,2.52 C6.0927677,2.52 2.52,6.0927677 2.52,10.5 C2.52,14.9072323 6.0927677,18.48 10.5,18.48 Z" id="Oval" fill-rule="nonzero"></path>
+            <rect id="Rectangle-11" transform="translate(21.000000, 20.000000) rotate(-45.000000) translate(-21.000000, -20.000000) " x="19" y="16" width="4" height="8"></rect>
+        </g>
+        <rect id="Rectangle-12" fill="#FFFFFF" x="19" y="16" width="3" height="9"></rect>
+        <rect id="Rectangle-12" fill="#FFFFFF" transform="translate(20.500000, 20.500000) rotate(90.000000) translate(-20.500000, -20.500000) " x="19" y="16" width="3" height="9"></rect>
+    </g>
+</svg>
